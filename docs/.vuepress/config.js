@@ -15,5 +15,5 @@ export default defineUserConfig({
   }),
 
   bundler: webpackBundler(),
-  base: 'https://github.com/cscw-and-se/CoVscode-docs/',
+  base: '/CoVscode-docs/',
 })
