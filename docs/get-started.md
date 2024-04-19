@@ -1,12 +1,12 @@
-# Get Started
+# 项目说明
 
-This is a normal page, which contains VuePress basics.
+在本部分，我们将初步了解项目的整体架构。
 
-## Pages
+## 技术栈
 
 You can add markdown files in your vuepress directory, every markdown file will be converted to a page in your site.
 
-See [routing][] for more details.
+See [routing][routing] for more details.
 
 ## Content
 
@@ -20,14 +20,14 @@ VuePress use a `.vuepress/config.js`(or .ts) file as [site configuration][config
 
 For [client side configuration][client-config], you can create `.vuepress/client.js`(or .ts).
 
-Meanwhile, you can also add configuration per page with [frontmatter][].
+Meanwhile, you can also add configuration per page with [frontmatter][frontmatter].
 
 ## Layouts and customization
 
 Here are common configuration controlling layout of `@vuepress/theme-default`:
 
-- [navbar][]
-- [sidebar][]
+- [navbar][navbar]
+- [sidebar][sidebar]
 
 Check [default theme docs][default-theme] for full reference.
 
