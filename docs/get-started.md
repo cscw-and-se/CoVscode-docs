@@ -4,6 +4,11 @@
 
 ## 技术栈
 
+这里演示放了一张图片会长什么样。
+
+![photo](./images/test_image.png)
+
+
 You can add markdown files in your vuepress directory, every markdown file will be converted to a page in your site.
 
 See [routing][routing] for more details.
