@@ -6,3 +6,5 @@
 # VuePress 默认构建生成的静态文件目录
 /docs/.vuepress/dist
 .DS_Store
+# 任意目录下的.DS_Store文件
+**/.DS_Store
